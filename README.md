@@ -4,11 +4,7 @@
 
 ![preview img](/preview.png)
 
-### Download Project
 
-```bash
-  git clone https://github.com/abdulaziz-m5u/travel-website-laravel.git project-name
-```
 
 Go to the project directory
 
